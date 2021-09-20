@@ -1,0 +1,68 @@
+.card{
+    position: relative;
+    background-color: #fcf025;
+    color: #233B63;
+    font-family: 'Roboto', sans-serif;
+    border-radius: 20px;
+    box-shadow: 0px 6px 6px rgba(0, 0, 0, 0.25);
+}
+
+
+
+.card-text{
+    font-weight: 400;
+}
+
+.fb_card {
+ position: relative;
+ background: #233B63;
+ width: 100%;
+ height: 45px;
+ top: 0;
+ left: 0;
+ border-radius: 20px 20px 0 0 ;
+}
+
+.parca  {
+    position: absolute;
+    width: 100%;
+    height: 24px;
+    background-color: #fcf025;
+    border-radius: 60%;
+    top: 35px;
+}
+
+.atasignature {
+   position: relative;
+   
+   height: 50px;
+   width: 100%;
+}
+
+.atasignature img {
+    position: absolute;
+    top: 5px;
+    left: 95px;
+    width: 70px;
+}
+
+
+
+.cubuk1 {
+    height: 47px;
+    width: 36px;
+    background-color: #233B63;
+}
+
+#avatar {
+    width: 200px;
+    height: 200px;
+    background: tomato;
+    border-radius: 50%;
+    background-image: url(./images/metin-dogan.jpg);
+    background-size: cover;
+    background-position-x: center;
+    z-index: 1;
+}
+
+
